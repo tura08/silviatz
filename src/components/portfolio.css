@@ -1,0 +1,51 @@
+/* projectList.css */
+.project-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-image: url("../img/sfondoNero.png");
+  background-position: top center;
+  background-size: 100% 120%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  list-style: none;
+  padding: 30px 50px;
+}
+
+.project-item {
+  width: calc(33.33% - 10px); /* Adjust the width as needed */
+  box-sizing: border-box;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.project-item img {
+  width: 100%;
+  height: auto;
+  cursor: pointer;
+  /* border: 0.2px solid white; */
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.543);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.project-item h2 {
+  font-size: 1.2rem;
+  margin-top: 10px;
+  color: white;
+}
+
+.project-item img:hover {
+  opacity: 0.7; /* Adjust the opacity when hovering as desired */
+}
+
+@media screen and (max-width: 600px) {
+  .project-list {
+    background-size: cover; /* Adjust background size for small screens */
+  }
+  .project-item {
+    width: 100%; /* Adjust the width as needed */
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    padding: 0px;
+  }
+}

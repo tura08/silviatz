@@ -1,0 +1,87 @@
+.c {
+  height: 100%;
+  padding-bottom: 50px;
+  position: relative;
+  background-image: url("../img/sfondo.png");
+  background-position: top center;
+  background-size: 100% 120%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: black;
+}
+
+.c-wrapper {
+  padding: 100px 0 50px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center horizontally within the .c-wrapper */
+  justify-content: center;
+  text-align: center;
+}
+
+form {
+  width: 50%; /* Set the form width to 50% of the .c-wrapper width */
+  max-width: 400px; /* You can adjust the maximum width as needed */
+}
+
+input {
+  width: 100%;
+  height: 50px;
+  border: none;
+  border-bottom: 1px solid black;
+  margin: 10px 0px;
+  font-size: 15px;
+  padding-left: 10px;
+  outline: none;
+}
+
+textarea {
+  width: 100%;
+  margin: 10px 0px;
+  font-size: 15px;
+  padding-left: 10px;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+/* Button style */
+
+.c-wrapper button {
+  background-color: #73a848; /* Initial color */
+  color: black;
+  border: none;
+  padding: 10px 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Smooth transition on hover */
+}
+
+/* Hover effect */
+.c-wrapper button:hover {
+  background-color: #2a620a;
+  color: white;
+}
+
+@media screen and (max-width: 600px) {
+  .c {
+    width: 100%;
+    background-size: cover; /* Adjust background size for small screens */
+  }
+  .c-wrapper {
+    flex-direction: column;
+    padding: 0px 50px;
+    font-size: 15px;
+    margin-top: 30px;
+  }
+
+  /*****/
+  form {
+    width: 100%;
+  }
+
+  .c-wrapper button {
+    margin-top: 10px;
+  }
+}

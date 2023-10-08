@@ -1,0 +1,99 @@
+.a {
+  min-height: 100vh;
+  position: relative;
+  background-image: url("../img/sfondo.png");
+  background-position: top center;
+  background-size: 100% 120%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: black;
+}
+
+.a-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 100px 0 50px 0;
+}
+
+/* Center the items in the .a-left and .a-right divs */
+.a-left {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: flex-start;
+  width: 50%;
+}
+
+.a-right {
+  flex: 2;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: flex-start;
+  width: 50%;
+}
+
+.a-desc {
+  font-weight: 200;
+  padding: 0 50px;
+  margin-bottom: 50px;
+  text-align: justify;
+}
+
+.a-image {
+  width: 60%;
+  border-radius: 50%;
+  align-items: center;
+}
+
+.cv-link {
+  color: black; /* Use the text color of the parent element (button) */
+  text-decoration: none; /* Remove underlining */
+}
+/* Button style */
+.a-right button {
+  background-color: #73a848; /* Initial color */
+  color: black;
+  border: none;
+  padding: 10px 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Smooth transition on hover */
+}
+
+/* Hover effect */
+.a-right button:hover {
+  background-color: #2a620a;
+  color: white;
+}
+
+@media screen and (max-width: 600px) {
+  .a {
+    width: 100%;
+    background-size: cover; /* Adjust background size for small screens */
+  }
+  .a h1 {
+    font-size: 20px;
+    padding-top: 50px;
+  }
+  .a-right {
+    width: 100%;
+  }
+  .a-left {
+    width: 100%;
+  }
+  .a-wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+  .a-right p {
+    font-size: 15px;
+  }
+
+  .a-image {
+    width: 50%;
+    border-radius: 50%;
+  }
+}

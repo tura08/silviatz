@@ -1,0 +1,134 @@
+/* projectDetail.css */
+.p {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../img/sfondo.png");
+  background-position: top center;
+  background-size: 100% 120%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  text-align: center;
+  margin-top: 30px;
+  padding: 0 50px;
+}
+.p-desc {
+  padding: 20px;
+}
+.p-desc ul {
+  list-style: none;
+}
+
+.p-desc p {
+  padding: 0px 100px 20px 100px;
+  /* font-size: 20px; */
+  text-align: justify;
+}
+
+.p-desc-links {
+  display: inline-block;
+  margin-left: 14px;
+  padding: 30px;
+}
+.p-desc-links a {
+  width: 42px;
+  height: 42px;
+  background: #73a848;
+  display: inline-flex;
+  border-radius: 50%;
+  margin-right: 6px;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.p-desc-links a::before {
+  content: "";
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  background-color: white;
+  border-radius: 50%;
+  transform: scale(0);
+  transition: 0.3s ease-in-out;
+}
+.p-desc-links a:hover::before {
+  transform: scale(1);
+}
+.p-desc-links a img {
+  width: 60%;
+  z-index: 1;
+  transition: 0.3s ease-in-out;
+}
+.p-desc-links a:hover img {
+  filter: brightness(0) saturate(100%) invert(0%) sepia(7%) saturate(98%)
+    hue-rotate(346deg) brightness(95%) contrast(86%);
+}
+
+.p-imageSingle {
+  width: 80%;
+}
+.p-image2row,
+.p-image3row,
+.p-image4row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.p-image2row-items img,
+.p-image3row-items img,
+.p-image4row-items img {
+  width: 70%;
+  height: auto;
+}
+.p-image2row-items {
+  width: calc(50% - 10px); /* Two items per line, adjust width as needed */
+  box-sizing: border-box;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.p-image3row-items {
+  width: calc(33.33% - 10px); /* Three items per line, adjust width as needed */
+  box-sizing: border-box;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+.p-image4row-items {
+  width: calc(25% - 10px); /* Four items per line, adjust width as needed */
+  box-sizing: border-box;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.p-imageSingle-item img {
+  width: 70%;
+  height: auto;
+}
+@media screen and (max-width: 600px) {
+  .p {
+    width: 100%;
+    background-size: cover;
+    padding: 0;
+  }
+  .p-desc p {
+    font-size: 15px;
+    padding: 5px 20px;
+  }
+  .p-desc-links img {
+    width: 20px;
+    height: 20px;
+  }
+  /* .p-desc-links,
+  .p-desc-links2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  } */
+  .p-image2row-items,
+  .p-image3row-items,
+  .p-image4row-items {
+    width: 100%;
+    padding: 0;
+  }
+}
