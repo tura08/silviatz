@@ -18,7 +18,7 @@ function App() {
   // Add after router when uploading to github pages basename="/silviatz"
 
   return (
-    <Router>
+    <Router basename="/silviatz">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
