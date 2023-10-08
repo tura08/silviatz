@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/silviatz/static/css/main.59f0480c.css",
-    "main.js": "/silviatz/static/js/main.1f9aba36.js",
+    "main.js": "/silviatz/static/js/main.9bbb2443.js",
     "static/media/cv.pdf": "/silviatz/static/media/cv.05b3fb205d6135536aa0.pdf",
     "static/media/12.png": "/silviatz/static/media/12.480df90d3d3bc7f6d32a.png",
     "static/media/16.png": "/silviatz/static/media/16.e92b18fae5f8940401f6.png",
@@ -118,10 +118,10 @@
     "static/media/linkedinFoot.svg": "/silviatz/static/media/linkedinFoot.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/facebookFoot.svg": "/silviatz/static/media/facebookFoot.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.59f0480c.css.map": "/silviatz/static/css/main.59f0480c.css.map",
-    "main.1f9aba36.js.map": "/silviatz/static/js/main.1f9aba36.js.map"
+    "main.9bbb2443.js.map": "/silviatz/static/js/main.9bbb2443.js.map"
   },
   "entrypoints": [
     "static/css/main.59f0480c.css",
-    "static/js/main.1f9aba36.js"
+    "static/js/main.9bbb2443.js"
   ]
 }
