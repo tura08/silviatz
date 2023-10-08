@@ -1,8 +1,21 @@
 import hazePort from "./img/haze/haze.png";
-import h1s from "./img/haze/1s.png";
-import h2s from "./img/haze/2s.png";
-import h3s from "./img/haze/3s.png";
-import h4s from "./img/haze/4s.png";
+import h1row2 from "./img/haze/1row2.png";
+import h2row2 from "./img/haze/2row2.png";
+import h3row2 from "./img/haze/3row2.png";
+import h4row2 from "./img/haze/4row2.png";
+import h1row2_2 from "./img/haze/1row2-2.png";
+import h2row2_2 from "./img/haze/2row2-2.png";
+import h3row2_2 from "./img/haze/3row2-2.png";
+import h4row2_2 from "./img/haze/4row2-2.png";
+import h5row2_2 from "./img/haze/5row2-2.png";
+import h6row2_2 from "./img/haze/6row2-2.png";
+import h7row2_2 from "./img/haze/7row2-2.png";
+import h8row2_2 from "./img/haze/8row2-2.png";
+import h9row2_2 from "./img/haze/9row2-2.png";
+import h10row2_2 from "./img/haze/10row2-2.png";
+import h11row2_2 from "./img/haze/11row2-2.png";
+import h12row2_2 from "./img/haze/12row2-2.png";
+import hs2 from "./img/haze/s2.png";
 
 import prymordyal from "./img/prymordyal/prymordyal.png";
 import pr1row2 from "./img/prymordyal/1.png";
@@ -54,8 +67,15 @@ import tar4row2_2 from "./img/tarocchi/4row2-2.png";
 
 import scacchiColori from "./img/scacchiColori/scacchiColori.png";
 import sc1s from "./img/scacchiColori/1s.png";
-import sc2s from "./img/scacchiColori/2s.png";
-import sc3s from "./img/scacchiColori/3s.png";
+import sc1row3_1 from "./img/scacchiColori/1row3-1.png";
+import sc2row3_1 from "./img/scacchiColori/2row3-1.png";
+import sc3row3_1 from "./img/scacchiColori/3row3-1.png";
+import sc4row3_1 from "./img/scacchiColori/4row3-1.png";
+import sc5row3_1 from "./img/scacchiColori/5row3-1.png";
+import sc6row3_1 from "./img/scacchiColori/6row3-1.png";
+import sc7row3_1 from "./img/scacchiColori/7row3-1.png";
+import sc8row3_1 from "./img/scacchiColori/8row3-1.png";
+import sc9row3_1 from "./img/scacchiColori/9row3-1.png";
 import sc1row3 from "./img/scacchiColori/1row3.jpg";
 import sc2row3 from "./img/scacchiColori/2row3.jpg";
 import sc3row3 from "./img/scacchiColori/3row3.jpg";
@@ -76,15 +96,16 @@ import sc17row3 from "./img/scacchiColori/17row3.jpg";
 import sc18row3 from "./img/scacchiColori/18row3.jpg";
 
 import athesis from "./img/athesis/athesis.png";
-import ath1 from "./img/athesis/1.png";
-import ath2 from "./img/athesis/2.png";
-import ath3 from "./img/athesis/3.png";
-import ath4 from "./img/athesis/4.png";
-import ath5 from "./img/athesis/5.png";
-import ath6 from "./img/athesis/6.png";
-import ath7 from "./img/athesis/7.png";
-import ath1row2 from "./img/athesis/1row2.png";
-import ath2row2 from "./img/athesis/2row2.png";
+import ath1 from "./img/athesis/s1.png";
+import ath2 from "./img/athesis/s2.png";
+import ath3 from "./img/athesis/s3.png";
+import ath4 from "./img/athesis/s4.png";
+import ath1row2_2 from "./img/athesis/1row2-2.png";
+import ath2row2_2 from "./img/athesis/2row2-2.png";
+import ath3row2_2 from "./img/athesis/3row2-2.png";
+import ath4row2_2 from "./img/athesis/4row2-2.png";
+import ath5row2_2 from "./img/athesis/5row2-2.png";
+import ath6row2_2 from "./img/athesis/6row2-2.png";
 
 import chessburger from "./img/chessburger/chessburger.png";
 import cb1 from "./img/chessburger/1.png";
@@ -121,17 +142,19 @@ import cb1row2 from "./img/chessburger/1row2.svg";
 import cb2row2 from "./img/chessburger/2row2.jpg";
 
 import elude from "./img/elude/elude.png";
+import el1row2 from "./img/elude/1row2.png";
+import el2row2 from "./img/elude/2row2.png";
+import el3row2 from "./img/elude/3row2.png";
+import el4row2 from "./img/elude/4row2.png";
+import el5row2 from "./img/elude/5row2.png";
+import el6row2 from "./img/elude/6row2.png";
+import el7row2 from "./img/elude/7row2.png";
+import el8row2 from "./img/elude/8row2.png";
+import el9row2 from "./img/elude/9row2.png";
+import el10row2 from "./img/elude/10row2.png";
 import el1 from "./img/elude/1.png";
 import el2 from "./img/elude/2.png";
 import el3 from "./img/elude/3.png";
-import el4 from "./img/elude/4.png";
-import el5 from "./img/elude/5.png";
-import el6 from "./img/elude/6.png";
-import el7 from "./img/elude/7.png";
-import el8 from "./img/elude/8.png";
-import el9 from "./img/elude/9.png";
-import el10 from "./img/elude/10.png";
-import el11 from "./img/elude/11.png";
 
 import milanoBike from "./img/milanoBike/milanobike.png";
 import miB1 from "./img/milanoBike/1.png";
@@ -181,13 +204,13 @@ const projects = [
     },
     image: {
       imagePortfolio: hazePort,
-      imageSingle: [h1s, h2s, h3s, h4s],
-      image2row: [],
+      imageSingle: [],
+      image2row: [h1row2, h2row2, h3row2, h4row2],
       image3row: [],
       image4row: [],
-      image2row2: [],
+      image2row2: [h1row2_2, h2row2_2, h3row2_2, h4row2_2, h5row2_2, h6row2_2, h7row2_2, h8row2_2, h9row2_2, h10row2_2, h11row2_2, h12row2_2],
       image3row2: [],
-      imageSingle2: [],
+      imageSingle2: [hs2],
     },
     file: [],
     hashtags: ["design", "portfolio"],
@@ -324,9 +347,18 @@ const projects = [
     },
     image: {
       imagePortfolio: scacchiColori,
-      imageSingle: [sc1s, sc2s, sc3s],
+      imageSingle: [sc1s],
       image2row: [],
       image3row: [
+        sc1row3_1,
+        sc2row3_1,
+        sc3row3_1,
+        sc4row3_1,
+        sc5row3_1,
+        sc6row3_1,
+        sc7row3_1,
+        sc8row3_1,
+        sc9row3_1,
         sc1row3,
         sc2row3,
         sc3row3,
@@ -376,11 +408,11 @@ const projects = [
     },
     image: {
       imagePortfolio: athesis,
-      imageSingle: [ath1, ath2, ath3, ath4, ath5, ath6, ath7],
-      image2row: [ath1row2, ath2row2],
+      imageSingle: [ath1, ath2, ath3, ath4],
+      image2row: [],
       image3row: [],
       image4row: [],
-      image2row2: [],
+      image2row2: [ath1row2_2, ath2row2_2, ath3row2_2, ath4row2_2, ath5row2_2, ath6row2_2],
       image3row2: [],
       imageSingle2: [],
     },
@@ -461,13 +493,13 @@ const projects = [
     },
     image: {
       imagePortfolio: elude,
-      imageSingle: [el1, el2, el3, el4, el5, el6, el7, el8, el9, el10, el11],
-      image2row: [],
+      imageSingle: [],
+      image2row: [el1row2, el2row2, el3row2, el4row2, el5row2, el6row2, el7row2, el8row2, el9row2, el10row2],
       image3row: [],
       image4row: [],
       image2row2: [],
       image3row2: [],
-      imageSingle2: [],
+      imageSingle2: [el1, el2, el3],
     },
     file: [],
     hashtags: ["design", "web", "illustration"],
@@ -475,7 +507,7 @@ const projects = [
   {
     id: 9,
     info: {
-      title: "Milano Bike",
+      title: "Milano Bike City",
       details: [
         "Milano Bike City is an annual event celebrating bicycles and sustainable mobility. This rebranding project aims to refresh the event's visual identity, aligning it with its core values of sustainability and enjoyment. The design is inspired by bicycle wheel's shape while drawing inspiration from the Regione Lombardia logo and its grid.",
         "The rebranding was extended to event materials, digital platforms and merchandise.",
