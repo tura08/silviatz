@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/silviatz/static/css/main.6630e3aa.css",
-    "main.js": "/silviatz/static/js/main.d87891ea.js",
+    "main.css": "/silviatz/static/css/main.c2aaca01.css",
+    "main.js": "/silviatz/static/js/main.8de5f0ba.js",
     "static/media/cv.pdf": "/silviatz/static/media/cv.05b3fb205d6135536aa0.pdf",
     "static/media/12.png": "/silviatz/static/media/12.480df90d3d3bc7f6d32a.png",
     "static/media/16.png": "/silviatz/static/media/16.e92b18fae5f8940401f6.png",
@@ -67,7 +67,6 @@
     "static/media/5row3.jpg": "/silviatz/static/media/5row3.94774c0f82e372174843.jpg",
     "static/media/elude.png": "/silviatz/static/media/elude.b6af1e4265c90d6cc1af.png",
     "static/media/reach2.png": "/silviatz/static/media/reach2.006411e71de3eb1eb372.png",
-    "static/media/home.png": "/silviatz/static/media/home.602bc89b2de96d458698.png",
     "static/media/5row2-2.png": "/silviatz/static/media/5row2-2.924da2b23db85fb0cd7a.png",
     "static/media/2.png": "/silviatz/static/media/2.8992eed29cf2c56a7b14.png",
     "static/media/7.png": "/silviatz/static/media/7.913b2430457213628280.png",
@@ -101,13 +100,13 @@
     "static/media/scacchiColori.png": "/silviatz/static/media/scacchiColori.ffe32a547d3a344ad1bd.png",
     "static/media/8row3-1.png": "/silviatz/static/media/8row3-1.38aeffde7ebc31ca3100.png",
     "static/media/3row3-1.png": "/silviatz/static/media/3row3-1.a1b06d91f07f4de33c83.png",
-    "static/media/sfondo.png": "/silviatz/static/media/sfondo.307832170b265a10f52d.png",
     "static/media/2row3-1.png": "/silviatz/static/media/2row3-1.4fec110f3f4da571aae3.png",
     "static/media/prymordyal.png": "/silviatz/static/media/prymordyal.642b813650feb79c1662.png",
     "static/media/2row3.png": "/silviatz/static/media/2row3.83189c02d94e1f632a85.png",
     "static/media/reach7.png": "/silviatz/static/media/reach7.96a16319a27cc87ab249.png",
     "static/media/3row3.png": "/silviatz/static/media/3row3.eb0f48f0e8974c0760d9.png",
     "static/media/6row3-1.png": "/silviatz/static/media/6row3-1.ad999cb4b2a5f79fe925.png",
+    "static/media/sfondoNero.png": "/silviatz/static/media/sfondoNero.730205b60f3ef29dd6a6.png",
     "static/media/24.png": "/silviatz/static/media/24.a4b194f16a69544c9d2e.png",
     "static/media/17row3.jpg": "/silviatz/static/media/17row3.ab5736fe554cde5a21e1.jpg",
     "static/media/16row3.jpg": "/silviatz/static/media/16row3.0465a277ff8856b62fd1.jpg",
@@ -123,11 +122,11 @@
     "static/media/13row3.png": "/silviatz/static/media/13row3.343fafaa5dbfd720ac18.png",
     "static/media/15row3.png": "/silviatz/static/media/15row3.730e403fe32d94f47c97.png",
     "static/media/14row3.png": "/silviatz/static/media/14row3.05abc8dbeef354a06f63.png",
-    "static/media/sfondoNero.png": "/silviatz/static/media/sfondoNero.72452f4b0d3178e829e8.png",
+    "static/media/Logodiviso.svg": "/silviatz/static/media/Logodiviso.d062c761b4d1bff8556e099d01bf44be.svg",
     "static/media/29.png": "/silviatz/static/media/29.59aad924c82982b382c6.png",
-    "static/media/Logounito.svg": "/silviatz/static/media/Logounito.eb41ad2fb72bbfd63a7b881814f65aed.svg",
+    "static/media/sfondo.png": "/silviatz/static/media/sfondo.22262edd4f11e56a88aa.png",
+    "static/media/Logounito.svg": "/silviatz/static/media/Logounito.3002089a69e651ef2a36395e740d6c5d.svg",
     "static/media/1row2.svg": "/silviatz/static/media/1row2.a9e3a444967060c38b62594926c8cc3f.svg",
-    "static/media/Logodiviso.svg": "/silviatz/static/media/Logodiviso.e37a8add7276429f1efcd26d39377561.svg",
     "static/media/instagramProj.svg": "/silviatz/static/media/instagramProj.d815a564dc7835a03039b773114382a7.svg",
     "static/media/youtubeProj.svg": "/silviatz/static/media/youtubeProj.e477d831bebed4606e7501d4c738d5f0.svg",
     "static/media/instagramFoot.svg": "/silviatz/static/media/instagramFoot.72cef43bc93b04f52e29f022ef720f8b.svg",
@@ -138,11 +137,11 @@
     "index.html": "/silviatz/index.html",
     "static/media/linkedinFoot.svg": "/silviatz/static/media/linkedinFoot.dff40ae802524d8fc0cbce3f312abe4f.svg",
     "static/media/facebookFoot.svg": "/silviatz/static/media/facebookFoot.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
-    "main.6630e3aa.css.map": "/silviatz/static/css/main.6630e3aa.css.map",
-    "main.d87891ea.js.map": "/silviatz/static/js/main.d87891ea.js.map"
+    "main.c2aaca01.css.map": "/silviatz/static/css/main.c2aaca01.css.map",
+    "main.8de5f0ba.js.map": "/silviatz/static/js/main.8de5f0ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.6630e3aa.css",
-    "static/js/main.d87891ea.js"
+    "static/css/main.c2aaca01.css",
+    "static/js/main.8de5f0ba.js"
   ]
 }
