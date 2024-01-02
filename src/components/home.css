@@ -3,7 +3,7 @@
   position: relative;
   background-image: url("../img/sfondoNero.png");
   background-position: top center;
-  background-size: 100% 120%;
+  background-size: 110% 130%;
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: black;
@@ -54,11 +54,11 @@ h1 {
   color: black; /* Set the text color to green */
   padding: 10px 10px;
   border-radius: 20px;
-  background-color: #73a848; /* Set the initial background to transparent */
+  background-color: #4fde4f; /* Set the initial background to transparent */
   transition: background-color 0.3s, color 0.3s;
 }
 .portfolioLink a:hover {
-  background-color: #2a620a; /* Set the background color to light green on hover */
+  background-color: #8288d6; /* Set the background color to light green on hover */
   color: white;
 }
 
@@ -74,7 +74,7 @@ h1 {
 
   .h-left,
   .h-right {
-    width: 100%; 
+    width: 100%;
     padding: 30px;
   }
 

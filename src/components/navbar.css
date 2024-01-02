@@ -36,14 +36,14 @@ h3 {
   gap: 10px;
 }
 .link {
-  color: #73a848;
+  color: #4fde4f;
   text-decoration: none;
   padding: 10px 20px;
   transition: background-color 0.3s ease;
 }
 
 .link:hover {
-  color: #2a620a;
+  color: #8288d6;
 }
 
 /* Styles for the navbar when scrolled */

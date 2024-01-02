@@ -48,7 +48,7 @@ textarea {
 /* Button style */
 
 .c-wrapper button {
-  background-color: #73a848; /* Initial color */
+  background-color: #4fde4f; /* Initial color */
   color: black;
   border: none;
   padding: 10px 10px;
@@ -60,7 +60,7 @@ textarea {
 
 /* Hover effect */
 .c-wrapper button:hover {
-  background-color: #2a620a;
+  background-color: #8288d6;
   color: white;
 }
 

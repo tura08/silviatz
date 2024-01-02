@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import "./home.css";
-import home from "../img/home.png";
+// import home from "../img/home.png";
 
 function Home() {
   // Scroll to the top when the component mounts
@@ -20,7 +20,7 @@ function Home() {
           </div>
         </div>
         <div className="h-right">
-          <img src={home} alt="" className="h-image"></img>
+          {/* <img src={home} alt="" className="h-image"></img> */}
         </div>
       </div>
     </div>
