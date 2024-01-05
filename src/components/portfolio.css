@@ -40,6 +40,7 @@
 
 @media screen and (max-width: 600px) {
   .project-list {
+    background-image: url("../img/sfondoMobileBlack.png");
     background-size: cover; /* Adjust background size for small screens */
   }
   .project-item {

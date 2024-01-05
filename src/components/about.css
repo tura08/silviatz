@@ -68,6 +68,7 @@
 @media screen and (max-width: 600px) {
   .a {
     width: 100%;
+    background-image: url("../img/sfondoMobileWhite.png");
     background-size: cover; /* Adjust background size for small screens */
   }
   .a h1 {

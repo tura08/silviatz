@@ -65,6 +65,7 @@ h1 {
 @media screen and (max-width: 600px) {
   .h {
     width: 100%;
+    background-image: url("../img/sfondoMobileHome.png");
     background-size: cover;
   }
   .h-wrapper {

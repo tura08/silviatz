@@ -67,6 +67,7 @@ textarea {
 @media screen and (max-width: 600px) {
   .c {
     width: 100%;
+    background-image: url("../img/sfondoMobileWhite.png");
     background-size: cover; /* Adjust background size for small screens */
   }
   .c-wrapper {
