@@ -75,8 +75,7 @@ h1 {
 
   .h-left,
   .h-right {
-    width: 100%;
-    padding: 30px;
+    width: 100%; /* Full width for both h-left and h-right in smartphone view */
   }
 
   .h-left h1 {
