@@ -39,6 +39,7 @@ const Footer = () => {
         </a>
       </div>
       <p>silviaturazzagd@gmail.com</p>
+      <p>VAT: IT05022590235</p>
       <p>+39 348 3286636</p>
       <br></br>
       <p>Online dal 2022</p>
