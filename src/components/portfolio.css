@@ -3,9 +3,9 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  background-image: url("../img/sfondoNero.png");
+  background-image: url("../img/sfondoNuovo.png");
   background-position: top center;
-  background-size: 110% 130%;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
   list-style: none;

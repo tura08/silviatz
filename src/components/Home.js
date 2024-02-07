@@ -13,14 +13,10 @@ function Home() {
     <div className="h">
       <div className="h-wrapper">
         <div className="h-left">
-          <p>Hi! I'm Silvia Turazza, I am a</p>
-          <h1>Graphic Designer</h1>
+          <h1>Let's bring your ideas to life together</h1>
           <div className="portfolioLink">
             <Link to="/portfolio">VISIT MY PORTFOLIO</Link>
           </div>
-        </div>
-        <div className="h-right">
-          {/* <img src={home} alt="" className="h-image"></img> */}
         </div>
       </div>
     </div>

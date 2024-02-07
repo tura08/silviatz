@@ -1,9 +1,9 @@
 .h {
   min-height: 100vh;
   position: relative;
-  background-image: url("../img/sfondoNero.png");
+  background-image: url("../img/sfondoNuovo.png");
   background-position: top center;
-  background-size: 110% 130%;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: black;
@@ -20,27 +20,22 @@ h1 {
 
 .h-left h1 {
   font-size: 45px;
+  font-style: italic;
+  font-weight: bold;
 }
 .h-left p {
   font-size: 30px;
 }
 
 .h-left {
+  margin-top: 100px;
   color: white;
   display: flex; /* Make it a flex container */
   flex-direction: column;
   justify-content: center;
   align-items: center; /* Center vertically */
   text-align: center;
-  width: 100%;
-}
-
-.h-right {
-  color: white;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  width: 100%;
+  width: 37%;
 }
 
 .h-image {

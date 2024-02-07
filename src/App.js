@@ -16,10 +16,8 @@ function App() {
     window.scrollTo(0, 0);
   }, []);
 
-  // Add after router when uploading to github pages basename="/silviatz"
-
   return (
-    <Router basename="/silviatz">
+    <Router>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
