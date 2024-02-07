@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/silviatz/static/css/main.ee572d21.css",
-    "main.js": "/silviatz/static/js/main.617ae205.js",
+    "main.css": "/silviatz/static/css/main.09762f7c.css",
+    "main.js": "/silviatz/static/js/main.ec5f86c4.js",
     "static/media/cv.pdf": "/silviatz/static/media/cv.05b3fb205d6135536aa0.pdf",
     "static/media/12.png": "/silviatz/static/media/12.480df90d3d3bc7f6d32a.png",
     "static/media/16.png": "/silviatz/static/media/16.e92b18fae5f8940401f6.png",
@@ -101,12 +101,12 @@
     "static/media/8row3-1.png": "/silviatz/static/media/8row3-1.38aeffde7ebc31ca3100.png",
     "static/media/3row3-1.png": "/silviatz/static/media/3row3-1.a1b06d91f07f4de33c83.png",
     "static/media/2row3-1.png": "/silviatz/static/media/2row3-1.4fec110f3f4da571aae3.png",
+    "static/media/sfondoNuovo.png": "/silviatz/static/media/sfondoNuovo.0c775b36dfdfa8c64430.png",
     "static/media/prymordyal.png": "/silviatz/static/media/prymordyal.642b813650feb79c1662.png",
     "static/media/2row3.png": "/silviatz/static/media/2row3.83189c02d94e1f632a85.png",
     "static/media/reach7.png": "/silviatz/static/media/reach7.96a16319a27cc87ab249.png",
     "static/media/3row3.png": "/silviatz/static/media/3row3.eb0f48f0e8974c0760d9.png",
     "static/media/6row3-1.png": "/silviatz/static/media/6row3-1.ad999cb4b2a5f79fe925.png",
-    "static/media/sfondoNero.png": "/silviatz/static/media/sfondoNero.730205b60f3ef29dd6a6.png",
     "static/media/24.png": "/silviatz/static/media/24.a4b194f16a69544c9d2e.png",
     "static/media/17row3.jpg": "/silviatz/static/media/17row3.ab5736fe554cde5a21e1.jpg",
     "static/media/16row3.jpg": "/silviatz/static/media/16row3.0465a277ff8856b62fd1.jpg",
@@ -140,11 +140,11 @@
     "index.html": "/silviatz/index.html",
     "static/media/linkedinFoot.svg": "/silviatz/static/media/linkedinFoot.dff40ae802524d8fc0cbce3f312abe4f.svg",
     "static/media/facebookFoot.svg": "/silviatz/static/media/facebookFoot.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
-    "main.ee572d21.css.map": "/silviatz/static/css/main.ee572d21.css.map",
-    "main.617ae205.js.map": "/silviatz/static/js/main.617ae205.js.map"
+    "main.09762f7c.css.map": "/silviatz/static/css/main.09762f7c.css.map",
+    "main.ec5f86c4.js.map": "/silviatz/static/js/main.ec5f86c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee572d21.css",
-    "static/js/main.617ae205.js"
+    "static/css/main.09762f7c.css",
+    "static/js/main.ec5f86c4.js"
   ]
 }
